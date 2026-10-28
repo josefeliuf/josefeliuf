@@ -7,7 +7,7 @@
   </samp>
 </p>
 
-### Hi, I'm José 👋
+### Hi, I'm Cote 👋
 
 I'm cofounder and CEO of [Vitrina](https://vitrinadev.com), from Santiago, Chile.
 
