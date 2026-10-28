@@ -13,7 +13,7 @@ I'm cofounder and CEO of [Vitrina](https://vitrinadev.com), from Santiago, Chile
 
 Vitrina is the AI platform where a small business lives. The chats, the customers, the stock, the calendar, the website and the invoices, all in one place. On top of that, an AI that answers WhatsApp, Instagram and email with the real data. So it quotes the car that's actually in stock and books the slot that's actually free.
 
-We started with car dealerships. Now clinics too. It's Francisco and me, no employees, and a lot of agents running in parallel.
+We started with car dealerships. Now clinics too. We are 4 cofounders, no employees, and a lot of agents running in parallel.
 
 ### How I got here
 
@@ -28,9 +28,9 @@ I also sell iPhones at [MacPhones](https://macphones.cl), and the store runs on 
 ### What I'm working on
 
 - **[Vitrina](https://vitrinadev.com)** · the AI platform where your business lives
-- **[Atribu](https://atribu.app)** · tells agencies which ad actually made them money
+- **[Atribu](https://atribu.app)** · tells agencies and businesses which ad actually made them money
 - **Facturía** · our own electronic invoicing API for Chile's SII
-- **Radar** · the sales OS we use to find our next dealers and clinics
+- **Radar** · the sales/GTM OS we use to find our next dealers and clinics
 
 ### Before
 
@@ -44,6 +44,6 @@ Mostly Claude Code. Several sessions at once, each one in its own worktree, with
 
 ### Off the keyboard
 
-Gym, football, and still trying to be financially literate.
+Gym, football, and trying to be financially literate.
 
 Si tienes una PYME en Chile y todo pasa por WhatsApp, hablemos 👉 [vitrinadev.com](https://vitrinadev.com)
