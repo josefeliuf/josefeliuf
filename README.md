@@ -15,6 +15,10 @@ Vitrina is the AI platform where a small business lives. The chats, the customer
 
 We started with car dealerships. Now clinics too. We are 4 cofounders, no employees, and a lot of agents running in parallel.
 
+I'm also cofounder of [Atribu](https://atribu.app). Meta and Google love to take credit for every sale. Atribu connects the ads with what actually happened after: the lead in the CRM, the WhatsApp chat, the payment in Stripe, MercadoPago or Shopify. So you see which ad actually made you money, in cash, not what the platform says.
+
+Then it sends those real sales back to Meta, so the algorithm learns to find buyers and not just clicks. Agencies run all their clients from one place, and you can ask your own AI about your campaigns through MCP. It's also the engine behind the ads inside Vitrina.
+
 ### How I got here
 
 Almost everything I've built started the same way. I use something, I hit a wall, and I'd rather build the fix than wait for someone else to.
