@@ -21,7 +21,7 @@ Almost everything I've built started the same way. I use something, I hit a wall
 
 At SoyMomo I built a WhatsApp sales agent in 2024. That code turned into Vitrina.
 
-At Connect, my fundraising company, I got tired of doing commissions in spreadsheets, so I built the ERP. Then I got tired of doing taxes by hand, so I built an invoicing API for the SII.
+At [Connect](https://connectmarketing.cl/), my fundraising company, I got tired of doing commissions in spreadsheets, so I built the ERP. Then I got tired of doing taxes by hand, so I built an invoicing API for the SII.
 
 I also sell iPhones at [MacPhones](https://macphones.cl), and the store runs on Vitrina. If something breaks, I'm the first one to know.
 
